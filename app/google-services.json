@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "263265265719",
+    "project_id": "autenticacao-de307",
+    "storage_bucket": "autenticacao-de307.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263265265719:android:00f00a68199a72f39e77b2",
+        "android_client_info": {
+          "package_name": "com.example.autenticacaofb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2UPVjtTr8lqMTopOJajrnCYmsPjw7b3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
